@@ -151,4 +151,4 @@ To rebuild from scratch, run the SQL scripts first (see the [SQL README](../sql/
 
 **Okerio Davis**
 LinkedIn: [linkedin.com/in/okeriodavis](https://linkedin.com/in/okeriodavis)
-GitHub: [your-github-username](https://github.com/your-github-username)
+
